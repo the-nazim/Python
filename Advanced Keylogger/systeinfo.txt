@@ -1,0 +1,30 @@
+cdsfdvdsCouldn't get IP AddressProcessor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System Info: Windows 10.0.19043
+Machine: AMD64
+Hostname: DESKTOP-0BCE67T
+Private IP Address: 192.168.1.101
+cdsfdvdsCouldn't get IP AddressProcessor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System Info: Windows 10.0.19043
+Machine: AMD64
+Hostname: DESKTOP-0BCE67T
+Private IP Address: 192.168.1.101
+cdsfdvdsCouldn't get IP AddressProcessor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System Info: Windows 10.0.19043
+Machine: AMD64
+Hostname: DESKTOP-0BCE67T
+Private IP Address: 192.168.1.101
+cdsfdvdsCouldn't get IP AddressProcessor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System Info: Windows 10.0.19043
+Machine: AMD64
+Hostname: DESKTOP-0BCE67T
+Private IP Address: 192.168.1.101
+cdsfdvdsCouldn't get IP AddressProcessor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System Info: Windows 10.0.19043
+Machine: AMD64
+Hostname: DESKTOP-0BCE67T
+Private IP Address: 192.168.1.101
+cdsfdvdsCouldn't get IP AddressProcessor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System Info: Windows 10.0.19043
+Machine: AMD64
+Hostname: DESKTOP-0BCE67T
+Private IP Address: 192.168.1.101
